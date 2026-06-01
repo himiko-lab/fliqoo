@@ -763,13 +763,14 @@ h4 {
     .hero-visuals {
         display: flex;
         justify-content: center;
-        /* Memastikan gambar Fliqoo persis di tengah */
         align-items: center;
         width: 100%;
         height: auto;
         margin-top: 40px;
+        padding: 25px 0;
+        /* INI KUNCINYA: Ruang bernapas 25px di atas dan bawah untuk animasi */
         overflow: hidden;
-        /* Mencegah efek animasi float menjebol ke samping */
+        /* Sekarang aman dipertahankan karena sudah ada ruang */
     }
 
     /* Penyesuaian gambar khusus untuk mobile */
