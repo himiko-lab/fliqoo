@@ -1,5 +1,5 @@
 const APP_CONFIG = {
-    appDownloadLink: "https://github.com/ramdhanrf222/Catatan-Keuangan/releases/download/fliqoo/app-release.apk",
+    appDownloadLink: "https://github.com/ramdhanrf222/Fliqoo/releases/download/fliqoo/app-standalone-release.apk",
     developerEmail: "labhimiko@gmail.com",
     images: {
         fliqooLogo: "assets/images/logo-fliqoo.png",   // <-- Tambahkan path logo Fliqoo
