@@ -1,6 +1,6 @@
 const APP_CONFIG = {
     appDownloadLink: "https://github.com/himiko-lab/fliqoo/releases/download/Fliqoo/app-standalone-release.apk",
-    developerEmail: "labhimiko@gmail.com",
+    developerEmail: "hi@himikolab.my.id",
     images: {
         fliqooLogo: "assets/images/logo-fliqoo.png",   // <-- Tambahkan path logo Fliqoo
         himikoLogo: "assets/images/logo-himiko.png",   // <-- Tambahkan path logo Himiko Lab
